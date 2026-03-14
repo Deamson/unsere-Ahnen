@@ -219,3 +219,9 @@ form button:hover {
 .hero-button:hover {
     background: #9c9587;
 }
+git init
+git add .
+git commit -m "Archivportal initial"
+git branch -M main
+git remote add origin https://github.com/deinname/archivportal.git
+git push -u origin main
